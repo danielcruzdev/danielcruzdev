@@ -4,7 +4,7 @@
 - 🔍 Atualmente trabalho no Banco Sofisa como desenvolvedor .NET Pleno.
 - 🤓 Gosto bastante de estudar o ecossistema .NET e sempre me aprofundar ao máximo.
 - 📖 Estou cursando Ciência da Computação na universidade Anhembi Morumbi.
-- 🎮 Nas horas vagas gosto bastante de jogar e assisir filme.
+- 🎮 Nas horas vagas gosto bastante de jogar, assisir filmes e series.
 ##
 
 <div align="center">

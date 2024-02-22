@@ -1,7 +1,7 @@
 ## Olá, bem vindo(a) ao meu perfil do Github
 ## Meu nome é Daniel Cruz e sou desenvolvedor FullStack
 
-- 🔍 Atualmente trabalho no Banco Sofisa como desenvolvedor .NET Pleno.
+- 🔍 Atualmente trabalho na CI&T como Desenvolvedor .NET Pleno.
 - 🤓 Gosto bastante de estudar o ecossistema .NET e sempre me aprofundar ao máximo.
 - 📖 Sou formado em Ciência da Computação pela universidade Anhembi Morumbi.
 - 🎮 Nas horas vagas gosto bastante de jogar, assisir filmes e series.

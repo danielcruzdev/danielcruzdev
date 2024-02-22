@@ -1,5 +1,5 @@
-## Olá, bem vindo(a) ao meu perfil do Github
-## Meu nome é Daniel Cruz e sou desenvolvedor FullStack
+## Olá, bem-vindo(a) ao meu perfil
+## Meu nome é Daniel Cruz, tenho 26 anos e sou Desenvolvedor Full Stack.
 
 - 🔍 Atualmente trabalho na CI&T como Desenvolvedor .NET Pleno.
 - 🤓 Gosto bastante de estudar o ecossistema .NET e sempre me aprofundar ao máximo.

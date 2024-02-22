@@ -1,10 +1,9 @@
 ## Olá, bem-vindo(a) ao meu perfil
-## Meu nome é Daniel Cruz, tenho 26 anos e sou Desenvolvedor Full Stack.
+## Meu nome é Daniel Cruz, tenho 26 anos e sou Desenvolvedor .NET
 
 - 🔍 Atualmente trabalho na CI&T como Desenvolvedor .NET Pleno.
-- 🤓 Gosto bastante de estudar o ecossistema .NET e sempre me aprofundar ao máximo.
-- 📖 Sou formado em Ciência da Computação pela universidade Anhembi Morumbi.
-- 🎮 Nas horas vagas gosto bastante de jogar, assisir filmes e series.
+- 📖 Sou formado em Ciência da Computação pela universidade Anhembi Morumbi e vou começar ainda esse ano uma pós em IA na FIAP.
+- 🎮 Nas horas vagas gosto bastante de jogar, assisir filmes, series e animes.
 ##
 
 <div align="center">

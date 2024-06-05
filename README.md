@@ -1,7 +1,7 @@
 ## Olá, bem-vindo(a) ao meu perfil
-## Meu nome é Daniel Cruz, tenho 26 anos e sou Desenvolvedor .NET
+## Meu nome é Daniel Cruz, tenho 26 anos e sou Arquiteto e Desenvolvedor de Software
 
-- 🔍 Atualmente trabalho na CI&T como Desenvolvedor .NET Pleno.
+- 🔍 Atualmente trabalho no Banco Sofisa como Arquiteto de Software.
 - 📖 Sou formado em Ciência da Computação pela universidade Anhembi Morumbi e vou começar ainda esse ano uma pós em IA na FIAP.
 - 🎮 Nas horas vagas gosto bastante de jogar, assisir filmes, series e animes.
 ##

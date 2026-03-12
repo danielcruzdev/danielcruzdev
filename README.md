@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniela Cruz
+# Daniel Cruz
 
 ### Backend Developer · .NET Enthusiast · Open Source Builder
 
